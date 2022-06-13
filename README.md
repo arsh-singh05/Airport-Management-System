@@ -1,5 +1,5 @@
 # Airport-Management-System
-Database Management Assignmen
+Database Management Assignment
 
 Airports are one of the busiest places, where people travel to and from countries thus there must be an airport management system. Everyone including the airplane employees, passengers, agents, and staff benefit from this management system. Since thousands of people travel in a day, it is important for airports to meet the passenger demands and make a constant, up to data management system that displays waiting times, tickets, and other details to the passengers. The managers who are in charge of the airport activity make sure that the system runs in a productive and smooth manner. 
 
