@@ -1,0 +1,9 @@
+# Airport-Management-System
+Database Management Assignmen
+
+Airports are one of the busiest places, where people travel to and from countries thus there must be an airport management system. Everyone including the airplane employees, passengers, agents, and staff benefit from this management system. Since thousands of people travel in a day, it is important for airports to meet the passenger demands and make a constant, up to data management system that displays waiting times, tickets, and other details to the passengers. The managers who are in charge of the airport activity make sure that the system runs in a productive and smooth manner. 
+
+The Airline industry is booming with over 150 million customers. One of the most crucial elements which the Airline industry depends upon is the Database Management System for Airports. This requires a robust and efficient design of the Database to manage the data so that it can be accessed, modified and stored quickly, and in the least space. The Database system and SQL commands described in this report makes up the basic operations and functions of an airport
+
+We have made an airport database management system which includes the name and description of the airlines that depart from and arrive at an airport. There is sufficient information such as the name, state, city, and code of the airport. Every airplane can only be accessed through the purchase of a ticket. A ticket can be identified through the ID and it is booked by an agent. The ticket is given by the agent to the customer only when the agent receives payment from the customer. The agent can be identified by their ID and the payment by the transaction ID
+After that, we have written 5 queries which include nested, correlated, functions, and triggers. Furthermore, we have constructed the ER Diagram and then converted it into a relational database. Following that, we normalized the relational model by creating functional dependencies. 
